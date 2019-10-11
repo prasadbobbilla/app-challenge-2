@@ -11,7 +11,7 @@
           const i = parseInt(this.firstNumber)
           const j = parseInt(this.secondNumber)
           
-          return 'Area is ' + area(i, j) + '.'
+          return 'Area is '+ area(i, j) + '.'
         }
       }
     })
